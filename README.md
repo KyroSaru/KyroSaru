@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🇫🇷 French student in Mathematics and Computer Science for 3 years
+🇫🇷 French student in Mathematics and Computer Science for 4 years
 
 For now, I only post several course & personal projects I enjoy.
 Let's see where the future takes me!
@@ -29,7 +29,7 @@ Let's see where the future takes me!
       <li>C++ (<i>with Qt & OpenGL</i>)</li>
       <li>Lua</li>
       <li>Java</li>
-      <li>OCaml</li>
+      <li>Python</li>
     </ul>
   </li>
   <li>
